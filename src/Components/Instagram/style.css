@@ -1,0 +1,32 @@
+.grp-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  line-height: 100px;
+}
+.grp1 {
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+.grp2 {
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-wrap: wrap;
+}
+img {
+  width: 200px;
+}
+img:hover {
+  box-shadow: 0 0 10px 3px rgb(173, 171, 171);
+  cursor: pointer;
+}

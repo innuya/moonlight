@@ -1,0 +1,10 @@
+.reviews {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 30px;
+}
+.reviews:hover {
+  box-shadow: none;
+}
