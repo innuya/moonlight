@@ -1,0 +1,36 @@
+.sweet {
+  background-color: rgb(253, 227, 231);
+  height: 500px;
+  width: 50%;
+  float: left;
+  margin: 60px;
+}
+.about {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: lighter;
+}
+p {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sj-text {
+  font-weight: lighter;
+}
+.but {
+  text-align: left;
+}
+.content {
+  padding: 100px;
+}
+img {
+  height: 500px;
+}
+img:hover {
+  box-shadow: none;
+}
+.imagediv2 {
+  margin-right: 50px;
+}
+.imagediv {
+  display: flex;
+}

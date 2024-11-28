@@ -1,0 +1,9 @@
+img {
+  width: 90%;
+  height: 180px;
+}
+
+img:hover {
+  box-shadow: 0 0 10px 3px rgb(173, 171, 171);
+  cursor: pointer;
+}

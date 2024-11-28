@@ -1,0 +1,23 @@
+h2 {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+.vtn-imgs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.cake {
+  font-size: 18px;
+  font-style: normal;
+}
+img {
+  height: 250px;
+}
+img:hover {
+  box-shadow: 0 0 10px 3px rgb(173, 171, 171);
+  cursor: pointer;
+}

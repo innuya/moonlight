@@ -1,0 +1,42 @@
+.online {
+  margin: 80px;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+  gap: 100px;
+}
+.women {
+  height: 450px;
+  justify-items: center;
+  align-items: center;
+  text-align: center;
+}
+.women:hover {
+  box-shadow: 0 0 10px 3px rgb(173, 171, 171);
+  cursor: pointer;
+}
+.online-text {
+  color: black;
+}
+.bg-text {
+  height: 350px;
+  width: 80%;
+  background-color: white;
+  margin-top: 65px;
+}
+.bg-text h1 {
+  text-align: left;
+}
+.bg-text h2 {
+  text-align: left;
+}
+.menu-btn {
+  text-align: left;
+  margin: 20px;
+}
+.menu {
+  background-color: rgb(248, 38, 108);
+  color: white;
+  border: transparent;
+}

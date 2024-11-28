@@ -1,0 +1,63 @@
+.delight {
+  height: 650px;
+  width: 60%;
+  margin: 40px auto;
+  background-color: rgb(252, 240, 242);
+}
+h2 {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 30px;
+}
+h1 {
+  font-style: normal;
+  font-weight: lighter;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.butns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  gap: 20px;
+  padding-left: 10px;
+}
+
+.b1:hover {
+  color: palevioletred;
+  border-color: pink;
+}
+
+.image-d1 {
+  height: 300px;
+}
+img {
+  height: 200px;
+}
+img:hover {
+  box-shadow: 0 0 10px 3px rgb(173, 171, 171);
+  cursor: pointer;
+}
+.image-ds {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.triple {
+  text-align: center;
+  font-style: normal;
+}
+.wt {
+  text-align: center;
+  color: black;
+}
+.rte {
+  text-align: center;
+  font-style: normal;
+}
